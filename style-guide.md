@@ -36,3 +36,6 @@ Note for text colors:
 
 - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 500, 600
+
+  Jonathan Walters
+  Verified Graduate
